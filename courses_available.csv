@@ -1,0 +1,19 @@
+ID,Campus,Department,Courses,Availability,Students
+1,Pablo Borbon,College of Engineering (COE),BS Mechanical Engineering,Unavailable,0
+2,Pablo Borbon,College of Engineering (COE),BS Electrical Engineering,Unavailable,0
+3,Pablo Borbon,College of Engineering (COE),BS Electronics Engineering,Unavailable,0
+4,Pablo Borbon,College of Engineering (COE),BS Civil Engineering,Available,1
+5,Pablo Borbon,College of Engineering (COE),BS Chemical Engineering,Available,0
+6,Pablo Borbon,College of Engineering (COE),BS Computer Engineering,Available,0
+7,Alangilan,College of Engineering (COE),BS Mechanical Engineering,Available,40
+8,Alangilan,College of Engineering (COE),BS Electrical Engineering,Available,40
+9,Alangilan,College of Engineering (COE),BS Electronics Engineering,Available,40
+10,Alangilan,College of Engineering (COE),BS Civil Engineering,Available,0
+11,Alangilan,College of Engineering (COE),BS Chemical Engineering,Available,0
+12,Alangilan,College of Engineering (COE),BS Computer Engineering,Available,1
+13,Pablo Borbon,"College of Architecture, Fine Arts, and Design (CAFAD)",BS Fine Arts,Available,0
+14,Pablo Borbon,"College of Architecture, Fine Arts, and Design (CAFAD)",BS Architecture,Available,0
+15,Pablo Borbon,"College of Architecture, Fine Arts, and Design (CAFAD)",BS Interior Design,Available,0
+16,Alangilan,"College of Architecture, Fine Arts, and Design (CAFAD)",BS Fine Arts,Available,1
+17,Alangilan,"College of Architecture, Fine Arts, and Design (CAFAD)",BS Architecture,Unavailable,0
+18,Alangilan,"College of Architecture, Fine Arts, and Design (CAFAD)",BS Interior Design,Available,40
